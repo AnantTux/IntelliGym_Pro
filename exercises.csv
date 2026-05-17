@@ -1,0 +1,205 @@
+Muscle,Machine,ExerciseName,MinAge,MaxRecommendedAge,ImpactLevel,SkillLevel
+Chest,Barbell,Barbell Bench Press,16,60,Medium,Intermediate
+Chest,Barbell,Incline Barbell Bench Press,16,60,Medium,Intermediate
+Chest,Barbell,Decline Barbell Bench Press,16,55,Medium,Intermediate
+Chest,Barbell,Close Grip Bench Press,18,55,High,Advanced
+Chest,Barbell,Guillotine Press,21,45,Very High,Advanced
+Chest,Barbell,Reverse Grip Bench Press,18,50,High,Advanced
+Chest,Dumbbell,Dumbbell Flyes,14,70,Low,Beginner
+Chest,Dumbbell,Incline Dumbbell Press,16,65,Medium,Intermediate
+Chest,Dumbbell,Flat Dumbbell Press,16,65,Medium,Intermediate
+Chest,Dumbbell,Decline Dumbbell Press,16,60,Medium,Intermediate
+Chest,Dumbbell,Dumbbell Pullover,16,65,Medium,Intermediate
+Chest,Dumbbell,Neutral Grip Dumbbell Press,14,70,Low,Beginner
+Chest,Dumbbell,Single Arm Dumbbell Press,16,65,Medium,Intermediate
+Chest,Cable,Cable Crossovers,14,75,Low,Beginner
+Chest,Cable,Low to High Cable Fly,14,75,Low,Beginner
+Chest,Cable,High to Low Cable Fly,14,75,Low,Beginner
+Chest,Cable,Standing Cable Chest Press,14,75,Low,Beginner
+Chest,Machine,Pec Deck Machine Fly,14,75,Low,Beginner
+Chest,Machine,Seated Chest Press,14,75,Low,Beginner
+Chest,Machine,Hammer Strength Chest Press,16,65,Medium,Intermediate
+Chest,Machine,Incline Chest Press Machine,16,65,Medium,Intermediate
+Chest,Machine,Decline Chest Press Machine,16,60,Medium,Intermediate
+Chest,Smith Machine,Smith Machine Bench Press,16,65,Medium,Beginner
+Chest,Smith Machine,Smith Incline Press,16,65,Medium,Beginner
+Chest,Bodyweight,Push-ups,12,80,Low,Beginner
+Chest,Bodyweight,Wide Push-ups,12,75,Low,Beginner
+Chest,Bodyweight,Diamond Push-ups,14,70,Medium,Intermediate
+Chest,Bodyweight,Decline Push-ups,16,60,Medium,Intermediate
+Chest,Bodyweight,Archer Push-ups,18,45,High,Advanced
+Chest,Bodyweight,Ring Push-ups,18,50,High,Advanced
+Chest,Bodyweight,Dips,18,55,High,Intermediate
+Chest,Kettlebell,Kettlebell Floor Press,16,65,Medium,Intermediate
+Chest,Resistance Band,Band Chest Fly,12,80,Low,Beginner
+Back,Barbell,Bent Over Barbell Rows,16,60,High,Intermediate
+Back,Barbell,Pendlay Rows,18,50,High,Advanced
+Back,Barbell,T-Bar Rows,16,60,Medium,Intermediate
+Back,Barbell,Deadlifts,18,55,Very High,Advanced
+Back,Barbell,Rack Pulls,18,55,Very High,Advanced
+Back,Barbell,Meadows Rows,18,50,High,Advanced
+Back,Dumbbell,One-Arm Dumbbell Rows,14,70,Low,Beginner
+Back,Dumbbell,Chest Supported Rows,14,75,Low,Beginner
+Back,Dumbbell,Renegade Rows,18,50,High,Advanced
+Back,Dumbbell,Dumbbell Deadlift,16,65,Medium,Intermediate
+Back,Dumbbell,Dumbbell Shrugs,14,70,Low,Beginner
+Back,Cable,Lat Pulldown,14,75,Low,Beginner
+Back,Cable,Close Grip Lat Pulldown,14,75,Low,Beginner
+Back,Cable,Straight Arm Pulldown,14,75,Low,Beginner
+Back,Cable,Seated Cable Rows,14,75,Low,Beginner
+Back,Cable,Face Pulls,12,80,Low,Beginner
+Back,Cable,Rope Pullover,14,75,Low,Beginner
+Back,Machine,Machine Rows,14,75,Low,Beginner
+Back,Machine,Assisted Pull-up Machine,12,80,Low,Beginner
+Back,Machine,Reverse Pec Deck,12,80,Low,Beginner
+Back,Machine,High Row Machine,14,70,Low,Beginner
+Back,Bodyweight,Wide Grip Pull-ups,16,60,Medium,Intermediate
+Back,Bodyweight,Chin-ups,14,65,Medium,Intermediate
+Back,Bodyweight,Neutral Grip Pull-ups,14,70,Medium,Intermediate
+Back,Bodyweight,Inverted Rows,12,80,Low,Beginner
+Back,Bodyweight,Australian Pull-ups,12,80,Low,Beginner
+Back,Kettlebell,Kettlebell Swings,18,55,High,Intermediate
+Back,Resistance Band,Band Rows,12,80,Low,Beginner
+Back,Trap Bar,Trap Bar Deadlift,18,60,High,Intermediate
+Legs,Barbell,Back Squats,16,60,Very High,Intermediate
+Legs,Barbell,Front Squats,16,60,High,Intermediate
+Legs,Barbell,Zercher Squats,18,50,Very High,Advanced
+Legs,Barbell,Romanian Deadlifts,16,60,High,Intermediate
+Legs,Barbell,Sumo Deadlifts,18,55,Very High,Advanced
+Legs,Barbell,Hip Thrusts,16,70,Medium,Intermediate
+Legs,Barbell,Good Mornings,18,50,Very High,Advanced
+Legs,Barbell,Walking Lunges,14,70,Medium,Beginner
+Legs,Dumbbell,Goblet Squats,14,75,Low,Beginner
+Legs,Dumbbell,Dumbbell Lunges,14,70,Medium,Beginner
+Legs,Dumbbell,Step-ups,12,80,Low,Beginner
+Legs,Dumbbell,Stiff Leg Dumbbell Deadlift,16,60,High,Intermediate
+Legs,Dumbbell,Dumbbell Bulgarian Split Squats,16,60,High,Intermediate
+Legs,Machine,Leg Extensions,14,75,Low,Beginner
+Legs,Machine,Seated Leg Curl,14,75,Low,Beginner
+Legs,Machine,Lying Leg Curl,14,75,Low,Beginner
+Legs,Machine,Hack Squat Machine,16,65,Medium,Intermediate
+Legs,Machine,Smith Machine Squats,16,65,Medium,Beginner
+Legs,Machine,Standing Calf Raise Machine,12,80,Low,Beginner
+Legs,Machine,Seated Calf Raise Machine,12,80,Low,Beginner
+Legs,Leg Press,Heavy Leg Press,16,65,High,Intermediate
+Legs,Leg Press,Single Leg Press,14,70,Medium,Intermediate
+Legs,Bodyweight,Bulgarian Split Squats,16,60,High,Intermediate
+Legs,Bodyweight,Bodyweight Squats,12,80,Low,Beginner
+Legs,Bodyweight,Jump Squats,16,45,High,Intermediate
+Legs,Bodyweight,Pistol Squats,18,45,Very High,Advanced
+Legs,Bodyweight,Wall Sit,12,80,Low,Beginner
+Legs,Bodyweight,Walking Lunges,12,75,Low,Beginner
+Legs,Bodyweight,Glute Bridges,12,80,Low,Beginner
+Legs,Kettlebell,Kettlebell Goblet Squat,14,75,Low,Beginner
+Legs,Kettlebell,Kettlebell Swing,18,55,High,Intermediate
+Legs,Resistance Band,Band Side Walks,12,80,Low,Beginner
+Legs,Sled,Sled Push,16,60,High,Intermediate
+Shoulders,Barbell,Overhead Military Press,16,60,High,Intermediate
+Shoulders,Barbell,Push Press,16,55,High,Intermediate
+Shoulders,Barbell,Behind The Neck Press,18,45,Very High,Advanced
+Shoulders,Barbell,Upright Rows,16,55,High,Intermediate
+Shoulders,Barbell,Landmine Press,14,70,Low,Beginner
+Shoulders,Dumbbell,Lateral Raises,14,75,Low,Beginner
+Shoulders,Dumbbell,Front Raises,14,75,Low,Beginner
+Shoulders,Dumbbell,Arnold Press,16,65,Medium,Intermediate
+Shoulders,Dumbbell,Rear Delt Fly,14,75,Low,Beginner
+Shoulders,Dumbbell,Seated Dumbbell Press,14,70,Medium,Beginner
+Shoulders,Dumbbell,Lean Away Lateral Raise,16,65,Low,Intermediate
+Shoulders,Cable,Cable Lateral Raise,14,75,Low,Beginner
+Shoulders,Cable,Face Pulls,12,80,Low,Beginner
+Shoulders,Cable,Cable Front Raise,14,75,Low,Beginner
+Shoulders,Cable,Rear Delt Cable Fly,14,75,Low,Beginner
+Shoulders,Machine,Shoulder Press Machine,14,75,Low,Beginner
+Shoulders,Machine,Reverse Pec Deck,12,80,Low,Beginner
+Shoulders,Machine,Lateral Raise Machine,14,75,Low,Beginner
+Shoulders,Bodyweight,Pike Push-ups,14,65,Medium,Intermediate
+Shoulders,Bodyweight,Handstand Push-ups,18,45,High,Advanced
+Shoulders,Kettlebell,Kettlebell Press,16,60,Medium,Intermediate
+Shoulders,Resistance Band,Band Pull Apart,12,85,Low,Beginner
+Biceps,Barbell,Barbell Curl,14,70,Medium,Beginner
+Biceps,Barbell,Reverse Curl,14,70,Low,Beginner
+Biceps,Barbell,Drag Curl,16,65,Medium,Intermediate
+Biceps,Dumbbell,Alternating Dumbbell Curl,14,75,Low,Beginner
+Biceps,Dumbbell,Hammer Curl,14,75,Low,Beginner
+Biceps,Dumbbell,Concentration Curl,14,75,Low,Beginner
+Biceps,Dumbbell,Incline Dumbbell Curl,14,65,Medium,Intermediate
+Biceps,Dumbbell,Zottman Curl,14,70,Low,Intermediate
+Biceps,Cable,Cable Curl,12,80,Low,Beginner
+Biceps,Cable,Rope Hammer Curl,12,80,Low,Beginner
+Biceps,Cable,High Cable Curl,14,75,Low,Beginner
+Biceps,Machine,Preacher Curl Machine,14,75,Low,Beginner
+Biceps,Machine,Cable Preacher Curl,14,75,Low,Beginner
+Biceps,Bodyweight,Chin-ups,14,65,Medium,Intermediate
+Biceps,Resistance Band,Band Curls,12,85,Low,Beginner
+Triceps,Barbell,Close Grip Bench Press,16,60,Medium,Intermediate
+Triceps,Barbell,JM Press,18,50,High,Advanced
+Triceps,Dumbbell,Overhead Dumbbell Extension,14,65,Medium,Intermediate
+Triceps,Dumbbell,Skull Crushers,16,60,Medium,Intermediate
+Triceps,Dumbbell,Kickbacks,14,75,Low,Beginner
+Triceps,Cable,Tricep Pushdown,12,80,Low,Beginner
+Triceps,Cable,Rope Pushdown,12,80,Low,Beginner
+Triceps,Cable,Overhead Cable Extension,14,75,Low,Beginner
+Triceps,Cable,Single Arm Pushdown,12,80,Low,Beginner
+Triceps,Machine,Dip Machine,14,75,Low,Beginner
+Triceps,Machine,Assisted Dip Machine,12,80,Low,Beginner
+Triceps,Bodyweight,Diamond Push-ups,14,70,Medium,Intermediate
+Triceps,Bodyweight,Bench Dips,14,70,Low,Beginner
+Triceps,Bodyweight,Parallel Bar Dips,16,60,High,Intermediate
+Forearms,Barbell,Wrist Curls,14,75,Low,Beginner
+Forearms,Barbell,Reverse Wrist Curls,14,75,Low,Beginner
+Forearms,Dumbbell,Farmers Walk,14,75,Medium,Beginner
+Forearms,Dumbbell,Hammer Curl Hold,14,75,Low,Beginner
+Forearms,Cable,Behind The Back Wrist Curl,14,75,Low,Beginner
+Forearms,Bodyweight,Dead Hangs,12,80,Low,Beginner
+Forearms,Grip Tool,Hand Gripper Squeeze,12,85,Low,Beginner
+Abs,Bodyweight,Crunches,12,80,Low,Beginner
+Abs,Bodyweight,Plank,12,80,Low,Beginner
+Abs,Bodyweight,Side Plank,14,75,Low,Beginner
+Abs,Bodyweight,Leg Raises,14,70,Low,Beginner
+Abs,Bodyweight,Hanging Knee Raises,14,70,Low,Beginner
+Abs,Bodyweight,Hanging Leg Raises,16,60,Medium,Intermediate
+Abs,Bodyweight,Russian Twists,14,70,Low,Beginner
+Abs,Bodyweight,Mountain Climbers,14,65,Medium,Beginner
+Abs,Cable,Cable Crunch,14,70,Low,Intermediate
+Abs,Cable,Woodchoppers,14,70,Low,Intermediate
+Abs,Machine,Ab Crunch Machine,14,75,Low,Beginner
+Abs,Machine,Captains Chair Leg Raise,14,70,Low,Beginner
+Abs,Medicine Ball,Medicine Ball Slams,14,60,Medium,Beginner
+Abs,Stability Ball,Swiss Ball Crunch,12,80,Low,Beginner
+Glutes,Barbell,Hip Thrust,16,70,Medium,Intermediate
+Glutes,Barbell,Glute Bridge,16,70,Medium,Intermediate
+Glutes,Dumbbell,Step-ups,12,80,Low,Beginner
+Glutes,Dumbbell,Curtsy Lunges,14,70,Medium,Beginner
+Glutes,Machine,Glute Kickback Machine,14,75,Low,Beginner
+Glutes,Cable,Cable Kickbacks,14,75,Low,Beginner
+Glutes,Resistance Band,Banded Glute Bridge,12,80,Low,Beginner
+Glutes,Bodyweight,Donkey Kicks,12,80,Low,Beginner
+Glutes,Bodyweight,Fire Hydrants,12,80,Low,Beginner
+Cardio,Treadmill,Incline Power Walk,12,80,Low,Beginner
+Cardio,Treadmill,HIIT Treadmill Sprints,16,45,High,Intermediate
+Cardio,Treadmill,Jogging,12,70,Medium,Beginner
+Cardio,Treadmill,Long Distance Running,16,60,Medium,Intermediate
+Cardio,Cycle,Stationary Sprint Cycling,14,65,Medium,Beginner
+Cardio,Cycle,Endurance Cycling,14,70,Medium,Beginner
+Cardio,Rowing Machine,Indoor Rowing,14,75,Low,Beginner
+Cardio,Elliptical,Elliptical Training,12,80,Low,Beginner
+Cardio,Stair Climber,Stair Climber Intervals,14,65,Medium,Beginner
+Cardio,Jump Rope,Speed Jump Rope,14,55,High,Intermediate
+Cardio,Bodyweight,Burpees,14,50,High,Intermediate
+Cardio,Bodyweight,Jumping Jacks,12,75,Low,Beginner
+Cardio,Bodyweight,High Knees,12,65,Medium,Beginner
+Cardio,Swimming,Lap Swimming,10,80,Low,Beginner
+Cardio,Track,Track Sprints,14,45,High,Intermediate
+Cardio,Sled,Sled Drags,16,65,Medium,Beginner
+Neck,Bodyweight,Neck Flexion,16,60,Low,Intermediate
+Neck,Bodyweight,Neck Extension,16,60,Low,Intermediate
+Neck,Harness,Neck Harness Curl,18,50,High,Advanced
+Full Body,Barbell,Clean And Press,18,50,High,Advanced
+Full Body,Barbell,Snatch,18,45,Very High,Advanced
+Full Body,Barbell,Thrusters,16,55,High,Intermediate
+Full Body,Dumbbell,Man Makers,18,50,High,Advanced
+Full Body,Kettlebell,Turkish Get-up,18,55,High,Advanced
+Full Body,Kettlebell,Kettlebell Clean And Press,16,55,High,Intermediate
+Full Body,Bodyweight,Burpees,14,50,High,Intermediate
+Full Body,Bodyweight,Bear Crawls,12,70,Low,Beginner
+Full Body,Sandbag,Sandbag Carries,16,60,Medium,Beginner
